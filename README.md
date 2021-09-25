@@ -1,6 +1,8 @@
 <h1 align='center'><a href='https://thelindat.github.io/old_inventory/'>Documentation</a></h1><p align='center'>Click the link above for information on setup, installation, and improving compatibility with other resources.
 <p align='center'><a href='https://streamable.com/bggvpg'>Showcase</a> | <a href='https://discord.gg/hmcmv3P7YW'>Discord</a> | <a href='https://thelindat.github.io/old_inventory/media'>Media</a></p>
 
+<h1 align='center'>DEVELOPMENT ENDED</h1>
+
 *Latest inventory from lindedn inventory..(**NOT MY WORK**)*
 
 ##### If you require the items list in another resource, rather than querying the database
